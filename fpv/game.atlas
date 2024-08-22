@@ -1,26 +1,40 @@
 
 game.png
-size: 1024, 256
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Light Anti-Aircraft tank
+UnitIcons/Heavy tank
   rotate: false
   xy: 4, 4
   size: 225, 225
   orig: 225, 225
   offset: 0, 0
   index: -1
-UnitIcons/Super heavy tank
+UnitIcons/Light Anti-Aircraft tank
   rotate: false
   xy: 237, 4
   size: 225, 225
   orig: 225, 225
   offset: 0, 0
   index: -1
-UnitIcons/fpv
+UnitIcons/Light tank
   rotate: false
   xy: 470, 4
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+UnitIcons/Super heavy tank
+  rotate: false
+  xy: 703, 4
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+UnitIcons/fpv
+  rotate: false
+  xy: 936, 4
   size: 225, 225
   orig: 225, 225
   offset: 0, 0

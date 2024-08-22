@@ -85,7 +85,6 @@
         "cost": 500,
         "requiredTech": "Ballistics",
         "upgradesTo": "Mobile SAM",
-        "obsoleteTech": "Rocketry",
         "uniques": [
             "[100]% chance to intercept air attacks",
             "[+150]% Strength <vs [Air] units>",
